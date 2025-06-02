@@ -20,7 +20,7 @@ I started my career learning core programming and database concepts. Over time, 
 ## Contact Me
 - GitHub: [https://github.com/Dilshad-AL-Mansoor](https://github.com/Dilshad-AL-Mansoor)  
 - LinkedIn: [Your LinkedIn Profile URL]  
-- Email: your.email@example.com
+- Email: dilshadalmansoor@gmail.com
 
 ---
 
